@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Candles-And-Beyond/static/css/main.644fc7a7.chunk.css",
-    "main.js": "/Candles-And-Beyond/static/js/main.1718c117.chunk.js",
-    "main.js.map": "/Candles-And-Beyond/static/js/main.1718c117.chunk.js.map",
+    "main.js": "/Candles-And-Beyond/static/js/main.9893aaba.chunk.js",
+    "main.js.map": "/Candles-And-Beyond/static/js/main.9893aaba.chunk.js.map",
     "runtime-main.js": "/Candles-And-Beyond/static/js/runtime-main.aa7d09e0.js",
     "runtime-main.js.map": "/Candles-And-Beyond/static/js/runtime-main.aa7d09e0.js.map",
     "static/js/2.b71f9d25.chunk.js": "/Candles-And-Beyond/static/js/2.b71f9d25.chunk.js",
     "static/js/2.b71f9d25.chunk.js.map": "/Candles-And-Beyond/static/js/2.b71f9d25.chunk.js.map",
     "index.html": "/Candles-And-Beyond/index.html",
-    "precache-manifest.b58a9c2e15b5e3df93cf447ab08429a6.js": "/Candles-And-Beyond/precache-manifest.b58a9c2e15b5e3df93cf447ab08429a6.js",
+    "precache-manifest.4d144386785b471e0c917e703e6583b9.js": "/Candles-And-Beyond/precache-manifest.4d144386785b471e0c917e703e6583b9.js",
     "service-worker.js": "/Candles-And-Beyond/service-worker.js",
     "static/css/main.644fc7a7.chunk.css.map": "/Candles-And-Beyond/static/css/main.644fc7a7.chunk.css.map",
     "static/js/2.b71f9d25.chunk.js.LICENSE.txt": "/Candles-And-Beyond/static/js/2.b71f9d25.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aa7d09e0.js",
     "static/js/2.b71f9d25.chunk.js",
     "static/css/main.644fc7a7.chunk.css",
-    "static/js/main.1718c117.chunk.js"
+    "static/js/main.9893aaba.chunk.js"
   ]
 }
